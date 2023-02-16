@@ -1,11 +1,10 @@
 .footer {
     height: 60px;
-    border-radius: 15px 15px 0px 0px ;
+    border-radius: 15px 15px 0px 0px;
     display: flex;
     justify-content: center;
     align-items: center;
     background-color: #00838F
-
 }
 
 
@@ -25,17 +24,6 @@
 
 .Name_in_footer:hover {
     color: #FFD700;
-    
+
 }
-
-
-
-
-
-
-
-
-
-
-
 

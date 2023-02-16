@@ -67,7 +67,7 @@ a {
 .chat-main {
 	display: grid;
 	grid-template-columns: 1fr 3fr;
-	
+
 	height: 625px;
 
 }
@@ -99,7 +99,7 @@ a {
 	/* max-height: 50px; */
 	overflow-y: scroll;
 	height: 550px;
-	
+
 
 }
 
@@ -129,9 +129,9 @@ a {
 	width: 100%;
 	/* height: 40px; */
 
-	
-	
-	
+
+
+
 }
 
 
@@ -149,7 +149,7 @@ a {
 
 /* Join Page */
 
-.body-index{
+.body-index {
 	height: 530px;
 }
 
